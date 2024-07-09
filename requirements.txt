@@ -1,0 +1,2 @@
+python-docx
+#Something regarding LibreOffice
